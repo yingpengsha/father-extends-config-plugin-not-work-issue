@@ -1,0 +1,9 @@
+{
+  "name": "father-extends-config-plugin-not-work-issue",
+  "scripts": {
+    "build": "father build --no-cache"
+  },
+  "dependencies": {
+    "father": "^4.5.1"
+  }
+}
